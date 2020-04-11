@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Android Storage Types</string>
+
+    <!--STRINGS MainActivity-->
+    <!--Labels-->
+    <string name="nameMain">Name:</string>
+    <string name="lastNameMain">Last Name:</string>
+    <string name="ageMain">Age:</string>
+    <string name="sexMain">Sex</string>
+    <string name="femaleMain">Female</string>
+    <string name="maleMain">Male</string>
+    <string name="optionSaveMain">Choice your storage mode</string>
+    <string name="optionLoadMain">Choice your loading mode</string>
+    <!--Buttons-->
+    <string name="saveSharedMain">Save with SharedPreferences</string>
+    <string name="saveInternaldMain">Save with Internal Storage</string>
+    <string name="saveExternaldMain">Save with External Storage</string>
+
+    <string name="loadSharedMain">Load from SharedPreferences</string>
+    <string name="loadInternaldMain">Load from Internal Storage</string>
+    <string name="loadExternaldMain">Load from External Storage</string>
+
+    <string name="saveMain">Save</string>
+    <string name="loadMain">Load</string>
+
+
+
+
+</resources>
